@@ -70,7 +70,7 @@
     "vue-jest": "latest"
   },
   "optionalDependencies": {
-    "ipx": "0.9.1"
+    "ipx": "^0.8.0"
   },
   "publishConfig": {
     "access": "public"
